@@ -1,1 +1,1 @@
-# frontend
+# Repository for CloudSMB Frontend Training
